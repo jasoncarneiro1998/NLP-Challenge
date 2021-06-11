@@ -1,0 +1,2 @@
+# NLP-Challenge
+This challenge consists in a Natural Language Processing (NLP) and Machine Learning / Deep Learning competition. The propose task is to predict pieces of information that are intentionally and can be verifies as false. That is, fake news. To this end, a dataset of fake claims is provided. The mission is to build a classifier model that determines whether a certain claim is false or true.
